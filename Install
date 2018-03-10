@@ -1,0 +1,5 @@
+1. mkdir myapp
+2. cd myapp
+3. npm init
+4. change entry point: to your main file. example(app.js)
+5. npm install express --save
